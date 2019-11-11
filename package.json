@@ -1,6 +1,6 @@
 {
   "name": "setfixedinterval",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "fixed-frequency callbacks, lower variance, stricter wall-clock affinity than setInterval",
   "main": "setfixedinterval.js",
   "types": "setfixedinterval.d.ts",
