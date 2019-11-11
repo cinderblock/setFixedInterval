@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "fixed-frequency callbacks, lower variance, stricter wall-clock affinity than setInterval",
   "main": "setfixedinterval.js",
+  "types": "setfixedinterval.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
